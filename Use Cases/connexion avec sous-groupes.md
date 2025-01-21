@@ -1,3 +1,4 @@
+```mermaid
 %% Diagramme de cas d'utilisation avec sous-groupes
 flowchart TB
 %% Acteurs
@@ -33,3 +34,4 @@ Utilisateur --> Connexion
 Utilisateur --> MdpOublie
 Etudiant --> Utilisateur
 Enseignant --> Utilisateur
+```
