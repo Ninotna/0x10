@@ -1,3 +1,4 @@
+```mermaid
 %% Cas d'utilisation pour le Dashboard avec noms courts
 flowchart TB
 %% Acteurs
@@ -29,3 +30,4 @@ Utilisateur((Utilisateur))
     %% Liens des acteurs
     Etudiant --> Utilisateur
     Enseignant --> Utilisateur
+```

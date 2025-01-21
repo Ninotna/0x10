@@ -1,6 +1,5 @@
-%% Diagramme de cas d'utilisation pour la connexion
-
 ```mermaid
+%% Diagramme de cas d'utilisation pour la connexion
 graph TD
     Etudiant((Étudiant))
     Enseignant((Enseignant))

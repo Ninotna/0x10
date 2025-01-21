@@ -1,3 +1,4 @@
+```mermaid
 %% Cas d'utilisation pour la gestion des tâches (version normale)
 flowchart TB
 %% Acteurs
@@ -16,3 +17,4 @@ Utilisateur((Utilisateur))
     %% Liens des acteurs
     Etudiant --> Utilisateur
     Enseignant --> Utilisateur
+```

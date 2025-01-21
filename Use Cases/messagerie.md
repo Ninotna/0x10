@@ -1,3 +1,4 @@
+```mermaid
 graph TD
 Utilisateur((Utilisateur enseignant ou élève)) -->|Se connecter| Connexion[Connexion]
 Connexion -->|<<include>>| Chat[Chat]
@@ -17,3 +18,4 @@ Connexion -->|<<include>>| Chat[Chat]
     Utilisateur --> AjouterContact
     	Utilisateur --> SupprimerContact
 
+```
