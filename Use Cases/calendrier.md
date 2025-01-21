@@ -1,3 +1,4 @@
+```mermaid
 graph TD
 Utilisateur((Utilisateur enseignant ou élève)) -->|Se connecter| Connexion[Connexion]
 Connexion --> Agenda[Agenda]
@@ -11,3 +12,4 @@ Connexion --> Agenda[Agenda]
     Enseignant((Enseignant)) --> AjouterPerso
     Enseignant --> AjouterEleve
     Enseignant --> Consulter
+```
