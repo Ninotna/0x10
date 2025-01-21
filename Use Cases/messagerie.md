@@ -16,6 +16,5 @@ Connexion -->|<<include>>| Chat[Chat]
     Utilisateur --> Supprimer
     Utilisateur --> Envoyer
     Utilisateur --> AjouterContact
-    	Utilisateur --> SupprimerContact
-
+    Utilisateur --> SupprimerContact
 ```
